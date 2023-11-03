@@ -6,11 +6,11 @@ This repository contains a collection of assembly language programs and resource
 
 The "Programs" directory in this repository contains various assembly language programs that showcase different aspects of assembly programming. These programs can be used to learn, practice, and explore assembly language concepts. Some of the key programs included are:
 
-- [Arithmetics Logical operations](Programs/HelloWorld.asm): A simple program that prints "Hello, World!" to the console.
-- [ASCII Arithemetics](Programs/Factorial.asm): Calculates the factorial of a number.
-- [BCD Arithmetics](Programs/FileIO.asm): Demonstrates file input and output operations using assembly language.
-- [String Operation](Programs/StringManipulation.asm): Illustrates string manipulation and comparison.
-- [Working with user inputs]: Examplify how to work with Usre input and do basic operations with it.
+- [Arithmetics Logical operations](https://github.com/vrcoder70/Assembly-Lang-Assignment/tree/main/Assembly-Language-main/Arithmetics%20Logical%20operations)
+- [ASCII Arithemetics](https://github.com/vrcoder70/Assembly-Lang-Assignment/tree/main/Assembly-Language-main/ASCII%20Arithemetics)
+- [BCD Arithmetics](https://github.com/vrcoder70/Assembly-Lang-Assignment/tree/main/Assembly-Language-main/BCD%20Arithmetics)
+- [String Operation](https://github.com/vrcoder70/Assembly-Lang-Assignment/tree/main/Assembly-Language-main/String%20Operation)
+- [Working with user inputs](https://github.com/vrcoder70/Assembly-Lang-Assignment/tree/main/Assembly-Language-main/Working%20with%20user%20inputs)
 
 Feel free to explore, modify, and run these programs to enhance your understanding of assembly language.
 
